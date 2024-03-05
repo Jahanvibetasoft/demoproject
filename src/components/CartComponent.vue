@@ -22,7 +22,7 @@ export default{
       ></v-img>
   
       <v-card-title>
-        Top western road trips
+        Top western road  Top western road trips
       </v-card-title>
   
       <v-card-subtitle>
