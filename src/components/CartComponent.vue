@@ -22,11 +22,11 @@ export default{
       ></v-img>
   
       <v-card-title>
-        Top western road trips
+        Top western road  Top western road trips
       </v-card-title>
   
       <v-card-subtitle>
-        1,000 miles of wonder
+       Subtitle
       </v-card-subtitle>
   
       <v-card-actions>
